@@ -5,3 +5,5 @@ Specifically intended to investigate problems related to default / explicitly se
 
 The scripts are an attempt to shine a flashlight on where the problem occurs on Windows platforms when using Ruby 2.2.6.
 At inception, it is an open question whether Ruby or net/http or httpclient or OpenSSL are the culprit.
+
+# here is a bogus line in a discardable branch
